@@ -4,6 +4,7 @@ import numpy as np
 import json
 from backend.utils.cnic_extractor import extract_cnic_info
 
+
 st.set_page_config(page_title="CNIC Extractor", page_icon="🧾", layout="centered")
 
 st.title("🧾 Smart CNIC Extractor")
@@ -36,6 +37,7 @@ if uploaded_file is not None:
             st.error(str(e))
         except Exception as ex:
             st.error(f"❌ Unexpected error: {str(ex)}")
+
 
 
 
