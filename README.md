@@ -23,11 +23,12 @@ It is built with **Python, EasyOCR, OpenCV, and Streamlit**, and can be deployed
 ---
 
 ## 🏗 Project Structure
-├── app.py # Main Streamlit app
-├── backend
-│ ├── utils
-│ │ └── cnic_extractor.py # CNIC OCR & extraction logic
-├── requirements.txt # Dependencies
+
+  - app.py # Main Streamlit app
+  - backend
+    - utils
+      - cnic_extractor.py # CNIC OCR & extraction logic
+  - requirements.txt # Dependencies
 
 ---
 
