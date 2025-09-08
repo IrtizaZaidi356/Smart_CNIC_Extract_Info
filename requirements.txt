@@ -1,10 +1,5 @@
-fastapi==0.100.1
-uvicorn==0.29.0
-python-multipart==0.0.9
-jinja2==3.1.3
-opencv-python-headless==4.9.0.80
-numpy==1.26.4
-pillow==10.2.0
-scipy==1.10.1
-easyocr==1.7.1
-# Don't add torch here — it's manually installed above
+streamlit
+easyocr
+opencv-python-headless
+numpy
+scipy
