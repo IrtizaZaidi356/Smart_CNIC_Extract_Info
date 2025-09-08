@@ -55,6 +55,9 @@ It is built with **Python, EasyOCR, OpenCV, and Streamlit**, and can be deployed
    - Extracted Info
    - Download JSON
 
+
+<img width="1910" height="953" alt="smart_cnic_front_side" src="https://github.com/user-attachments/assets/4f934d5c-4df7-46c3-b287-acb964f55f55" />
+
 --- 
 
 ## 🔒 Notes:
