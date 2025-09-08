@@ -5,6 +5,11 @@ It is built with **Python, EasyOCR, OpenCV, and Streamlit**, and can be deployed
 
 ---
 
+## Smart CNIC Extract Information APP Link:
+  - https://smartcnicextractinfo.streamlit.app/
+
+---
+
 ## 🚀 Features
 - 📤 Upload Smart CNIC image (JPEG/PNG)  
 - 🔍 Extracts important fields automatically:  
